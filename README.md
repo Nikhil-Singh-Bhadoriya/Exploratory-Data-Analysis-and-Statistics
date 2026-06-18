@@ -1,2 +1,1 @@
-# Exploratory Data Analysis (EDA) Notebooks Collection
-
+# Exploratory Data Analysis and Statistics
